@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav li {
+  float: left;
+  display: block;
+  position: relative;
+  z-index: 500;
+  margin: 0 5px;
+}
